@@ -28,7 +28,7 @@
 
 <script>
 import Box from "./components/Box.vue";
-import jsonData from "./json/json-test-fe.json"; // Sesuaikan path dengan lokasi file JSON Anda
+import jsonData from "./json/json-test-fe.json";
 import Modal from "./components/Modal.vue";
 
 export default {
